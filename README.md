@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:5A189A,100:9D4EDD&height=300&section=header&text=Hi%20There,%20I'm%20Vishnuvarshan&fontSize=40&fontColor=E0AAFF&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlignY=55&descSize=18&descColor=C77DFF" width="100%"/>
 
 <a href="https://github.com/Wills-Vishnu">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C77DFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Computer+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+%26+Generative+AI+Developer;Cloud%2C+DevOps+%26+Server+Infrastructure;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C77DFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi%2C+I'm+Vishnu+%F0%9F%91%8B;I'm+a+DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;I'm+an+AI+%26+Machine+Learning+Developer+%F0%9F%A4%96;I'm+a+Full-Stack+Developer+%F0%9F%92%BB;I+Build+%26+Deploy+Real-World+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
@@ -130,21 +130,15 @@ My interests span **AI/ML, Generative AI, full-stack development, cloud computin
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
 <a id="contact"></a>
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-I'm always open to talking about AI/ML, full-stack builds, cloud infra, or game server hosting — reach out any time.
+I'm always open to talking about AI/ML, full-stack builds, cloud infra, DevOps, or game server hosting — reach out any time.
 
-<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://sky-hostings.com"><img src="https://img.shields.io/badge/Portfolio-5A189A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://sky-hostings.com"><img src="https://img.shields.io/badge/Portfolio-5A189A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/Discord-willsmith5314-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: willsmith5314"/>
 
 <br/><br/>
 
