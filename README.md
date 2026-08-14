@@ -5,7 +5,7 @@
 <a href="https://github.com/Wills-Vishnu">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=C77DFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi%2C+I'm+Vishnu+%F0%9F%91%8B;I'm+a+DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;I'm+an+AI+%26+Machine+Learning+Developer+%F0%9F%A4%96;I'm+a+Full-Stack+Developer+%F0%9F%92%BB;I+Build+%26+Deploy+Real-World+Products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-<br>
+
 <p>
   <a href="#about"><b>About</b></a> •
   <a href="#tech-stack"><b>Tech Stack</b></a> •
