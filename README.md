@@ -15,9 +15,9 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/vishnuvarshan-saravanakarthikeyan/"><img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://sky-hostings.com"><img src="https://img.shields.io/badge/Portfolio-5A189A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:vishnuvarshan34@gmail.com"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Wills-Vishnu?tab=followers"><img src="https://img.shields.io/github/followers/Wills-Vishnu?label=Follow&style=for-the-badge&color=BC13FE&labelColor=000000" alt="GitHub Followers"/></a>
 </p>
 
